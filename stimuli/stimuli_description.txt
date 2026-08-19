@@ -1,0 +1,4 @@
+# Description of the stimuli files contained within this folder
+# 1. stimuli.csv: contains word length, frequency, concreteness, etc., information for the stimuli words
+# 2. "audio_*.ogg": audio files used during Day 1 training
+# 3. "img_*.png": stimulus images used during Day 1 training and Day 2 testing
